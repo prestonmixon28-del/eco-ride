@@ -1,0 +1,4 @@
+Phase-1:
+I was able to use a code "dart create -t console phase1 to help me start.
+Null safety affected the solution because "stdin.readLineSync()" can return the null. I then used "String?" for the "input" and "input!". It would allow it to convert to an integer. The "!" tells the dart that I want the input to have a value.
+Phase-2:
