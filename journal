@@ -2,3 +2,4 @@ Phase-1:
 I was able to use a code "dart create -t console phase1 to help me start.
 Null safety affected the solution because "stdin.readLineSync()" can return the null. I then used "String?" for the "input" and "input!". It would allow it to convert to an integer. The "!" tells the dart that I want the input to have a value.
 Phase-2:
+I used the if/else statement to handle the vehicle choice. If the user enters 1, the program would calculate the cost for the bike using the base rate and distance. When the user enters 2, it would add a small service fee with it. If the user enters anything else, the program will display an invalid choice message.
