@@ -6,3 +6,4 @@ I used the if/else statement to handle the vehicle choice. If the user enters 1,
 phase-3:
 I decided to choose the while loop because I wanted the program to continue running as long as the user keeps enter "y". After each calculation, the program ask if the user wants to continue. If they enter anything else, the program will end.
 Phase 4:
+When I was testing the error handle part of the code, it would just crash, then I enter "cd phase4" and it would said" couldn't find path to file" even though I did it before fixing some of my code.
