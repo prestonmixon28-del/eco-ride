@@ -13,7 +13,7 @@ void main() {
   print('enter your travel distance');
 
   String? distanceInput = stdin.readLineSync();
-  int distance = int.parse(choiceInput!);
+  int distance = int.parse(choiceInput);
 
   double cost;
 
